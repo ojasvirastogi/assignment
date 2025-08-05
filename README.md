@@ -41,3 +41,5 @@ basti-ki-pathshala/
 ├── package.json
 └── README.md
 
+PREVIEW OF THE PROJECT
+![Uploading image.png…]()

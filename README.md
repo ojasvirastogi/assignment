@@ -44,5 +44,5 @@ basti-ki-pathshala/
 PREVIEW OF THE PROJECT
 
 ![image alt](https://github.com/ojasvirastogi/assignment/blob/main/Screenshot%202025-08-06%20001450.png?raw=true)
-![image alt](https://github.com/ojasvirastogi/assignment/blob/main/Screenshot%202025-08-06%20002747.png?raw=true)
-![image alt](https://github.com/ojasvirastogi/assignment/blob/main/Screenshot%202025-08-06%20003743.png?raw=true)
+![image alt](https://github.com/ojasvirastogi/assignment/blob/main/Screenshot%202025-08-06%20002747.png?raw=true) ![image alt](https://github.com/ojasvirastogi/assignment/blob/main/Screenshot%202025-08-06%20003743.png?raw=true)
+

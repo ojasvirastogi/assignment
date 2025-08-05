@@ -42,4 +42,4 @@ basti-ki-pathshala/
 └── README.md
 
 PREVIEW OF THE PROJECT
-![Uploading image.png…]()
+
